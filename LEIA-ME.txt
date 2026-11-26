@@ -1,0 +1,20 @@
+GOTRAIL — SITE PARA GITHUB PAGES
+
+1. Extraia o conteúdo deste ZIP.
+2. Envie os arquivos e a pasta assets para a raiz do repositório GitHub (não envie a pasta gotrail-site como uma pasta dentro do repositório).
+3. No GitHub, abra Settings > Pages.
+4. Em Build and deployment, escolha Deploy from a branch.
+5. Selecione a branch main e a pasta /(root), depois Save.
+6. Aguarde a publicação. O endereço será https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+
+ARQUIVOS
+- index.html: página inicial
+- politica-de-privacidade.html: política baseada no documento que estava no ZIP do projeto
+- termos-de-uso.html: termos baseados no documento que estava no ZIP do projeto
+- suporte.html: contato e suporte
+- assets/: identidade visual e CSS
+
+IMPORTANTE ANTES DE ENVIAR PARA A APP STORE:
+- Os documentos legais do ZIP original tinham o nome/identificação do controlador em branco. O site preencheu o e-mail oficial, mas não inventou o nome legal do responsável. Complete a identificação do controlador na Política de Privacidade e nos Termos antes de considerar os documentos finais.
+- Revise se a política descreve exatamente a versão do app que será publicada, especialmente dados coletados, localização em segundo plano, serviços de terceiros e exclusão de conta.
+- A página inicial descreve funcionalidades de forma geral; ajuste caso algum recurso ainda não esteja disponível na versão enviada à Apple.
